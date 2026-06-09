@@ -87,11 +87,11 @@ while (running)
     Send, {r down}
     Sleep, 100
     Send, {r up}
-    Sleep, 2500
+    Sleep, 3000
 
-    ; Hold S for 2 seconds to walk down
+    ; Hold S for 1 second to walk down
     Send, {s down}
-    Sleep, 2000
+    Sleep, 1000
     Send, {s up}
 
     ; Press E to enter the arena
