@@ -42,4 +42,4 @@ Master Arena (Level 65):
 * If battles are taking too long or you are experiencing frequent defeats, consider running **Diamond** difficulty instead of **Master**, remember to adjust the coordinates when you make the change.
 * The faster your challengers eliminate enemies, the more efficient the farming process will be.
 * If the script stops working correctly, the first thing to check is whether your coordinates and pixel colors have been calibrated properly.
-* Pay special attention when configuring the coordinates for the white **TP eagle icon** on the compass at the top of the screen. Since the icon occupies only a few pixels, the coordinate must be extremely accurate. When using Window Spy, try to place the cursor as close as possible to the center of the eagle icon to get the correct coord.
+* **Pay special attention when** configuring the coordinates for the white **TP eagle icon** on the compass at the top of the screen. Since the icon occupies only a few pixels, the coordinate must be extremely accurate. When using Window Spy, try to place the cursor as close as possible to the center of the eagle icon to get the correct coord.
