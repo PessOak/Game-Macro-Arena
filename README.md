@@ -19,6 +19,7 @@
 5. Only use the coordinates shown under **Mouse Position > Screen**. Ignore the **Window** and **Client** values.
 6. Run the game in **Windowed Mode**.
 7. **F1** starts and **F2** ends the macro.
+8. Check the images on the folder for extra information and watch the video os the macro working.
 
 ## Combat Recommendations
 
