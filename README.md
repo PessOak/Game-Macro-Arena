@@ -10,6 +10,11 @@
   * Weapon reload: **R**
   * Fire weapon: **Left Mouse Button**
 
+## Macro demo video
+[▶ Watch Demo](https://github.com/PessOak/Game-Macro-Arena/releases/download/demo-video/video-demo-macro.1.mp4)
+
+https://github.com/PessOak/Game-Macro-Arena/releases/download/demo-video/video-demo-macro.1.mp4
+
 ## Initial Setup
 
 1. Position your character **with their back facing the arena**, between the Pokédex pillar and the vendor pillar.
